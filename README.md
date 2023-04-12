@@ -14,7 +14,7 @@ This project includes a JavaScript program that uses the Three.js library to loa
 - Explore the 3D model on the web page from different angles.
 - Interact with the design using features such as OrbitControl and VR, and enjoy the immersive experience.
 
-### Note: The usage of this project is subject to the terms and conditions of the MIT License. Please read the license and ensure that your usage complies with the license requirements.
+### Note: The usage of this project is subject to the terms and conditions of the License. Please read the license and ensure that your usage complies with the license requirements.
 
 ## Feedback
 
